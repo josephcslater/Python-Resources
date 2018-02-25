@@ -10,4 +10,4 @@ Jupyter
 Jupyter Tips
 ------------
 
-- `10 things you really should know about jupyter notebooks - Jakub Czakon <https://www.youtube.com/watch?v=FwUcJFSAfQw>`_
+- `10 things you really should know about jupyter notebooks - Jakub Czakon <https://www.youtube.com/watch?v=FwUcJFSAfQw>`_ with `repository <https://github.com/josephcslater/pydatawarsaw-notebooks>`_.
