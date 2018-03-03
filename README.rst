@@ -2,7 +2,7 @@ Python-Resources
 ================
 
 Curated Python resources. Focusing on useful-but-obscure. Obscure
-meaning gems that can be harder to find.
+means gems that can be harder to find.
 
 Jupyter
 -------
